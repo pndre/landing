@@ -1,1 +1,1 @@
-# landing-astro
+# landing
